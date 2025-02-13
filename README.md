@@ -14,3 +14,8 @@ This project focuses on analyzing rainfall patterns using **Microsoft SQL Server
 - Identifies **trends in annual and monthly rainfall**.  
 - Highlights **regions with extreme rainfall variations**.  
 - Analyzes **seasonal rainfall patterns** to detect climate changes.  
+
+## 🛠️ Tech Stack  
+- **Microsoft SQL Server** – Database management system.  
+- **SQL Queries** – Data extraction and analysis.  
+- **SSMS (SQL Server Management Studio)** – Query execution. 
